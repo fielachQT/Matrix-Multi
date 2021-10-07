@@ -1,0 +1,12 @@
+C:\Users\fielachQT\source\repos\Log\Log\bin\x64\Release\Log.exe.config
+C:\Users\fielachQT\source\repos\Log\Log\bin\x64\Release\Log.exe
+C:\Users\fielachQT\source\repos\Log\Log\bin\x64\Release\Log.pdb
+C:\Users\fielachQT\source\repos\Log\Log\obj\x64\Release\Log.Form1.resources
+C:\Users\fielachQT\source\repos\Log\Log\obj\x64\Release\Log.Form2.resources
+C:\Users\fielachQT\source\repos\Log\Log\obj\x64\Release\Log.Form3.resources
+C:\Users\fielachQT\source\repos\Log\Log\obj\x64\Release\Log.Properties.Resources.resources
+C:\Users\fielachQT\source\repos\Log\Log\obj\x64\Release\Log.csproj.GenerateResource.cache
+C:\Users\fielachQT\source\repos\Log\Log\obj\x64\Release\Log.csproj.CoreCompileInputs.cache
+C:\Users\fielachQT\source\repos\Log\Log\obj\x64\Release\Log.exe
+C:\Users\fielachQT\source\repos\Log\Log\obj\x64\Release\Log.pdb
+C:\Users\fielachQT\source\repos\Log\Log\obj\x64\Release\Log.csprojAssemblyReference.cache

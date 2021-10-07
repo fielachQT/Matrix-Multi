@@ -1,0 +1,11 @@
+C:\Users\fielachQT\source\repos\Log\Log\bin\x64\Logistic\Log.exe.config
+C:\Users\fielachQT\source\repos\Log\Log\bin\x64\Logistic\Log.exe
+C:\Users\fielachQT\source\repos\Log\Log\bin\x64\Logistic\Log.pdb
+C:\Users\fielachQT\source\repos\Log\Log\obj\x64\Logistic\Log.Form1.resources
+C:\Users\fielachQT\source\repos\Log\Log\obj\x64\Logistic\Log.Form2.resources
+C:\Users\fielachQT\source\repos\Log\Log\obj\x64\Logistic\Log.Form3.resources
+C:\Users\fielachQT\source\repos\Log\Log\obj\x64\Logistic\Log.Properties.Resources.resources
+C:\Users\fielachQT\source\repos\Log\Log\obj\x64\Logistic\Log.csproj.GenerateResource.cache
+C:\Users\fielachQT\source\repos\Log\Log\obj\x64\Logistic\Log.csproj.CoreCompileInputs.cache
+C:\Users\fielachQT\source\repos\Log\Log\obj\x64\Logistic\Log.exe
+C:\Users\fielachQT\source\repos\Log\Log\obj\x64\Logistic\Log.pdb
